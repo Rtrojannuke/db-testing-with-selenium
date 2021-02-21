@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class rtest {
+// This is a Script to query db to check correctness of values
 	
 	public static void main(String[] args) {
 
